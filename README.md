@@ -12,10 +12,11 @@
 
 <h2>Full-stack Web Development</h2>
 
-<h2>IOT</h2>
+<!-- <h2>IOT</h2>
 
 <h2>Machine learning</h2>
 
-<h2>Cryptography</h2>
+<h2>Cryptography</h2> -->
 
-<h2>Game Development</h2>
+<!-- <h2>Game Development</h2>
+ -->

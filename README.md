@@ -24,4 +24,4 @@
 #### 👉 <a href="https://unknown-lad-2.github.io/Delivery_foods_site/">Foody Cums</a>,
 
 # React JS
-#### 👉 <a href="https://unknown-lad-2.github.io/ReactDummyProject/">Muti Step Form</a>,
+#### 👉 <a href="https://unknown-lad-2.github.io/ReactDummyProject/">Blog Website</a>,

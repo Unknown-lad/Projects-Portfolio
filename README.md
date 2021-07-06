@@ -23,5 +23,5 @@
 ## Websites Based on HTML, CSS, JS
 #### 👉 <a href="https://unknown-lad-2.github.io/Delivery_foods_site/">Foody Cums</a>,
 
-# React JS
+<!-- # React JS -->
 <!-- #### 👉 <a href="https://unknown-lad-2.github.io/ReactDummyProject/">Blog Website</a>, -->
